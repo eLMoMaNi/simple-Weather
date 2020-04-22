@@ -1,0 +1,10 @@
+day icon: x= 232,y=185
+day temp: x90 y220, color: Red, font itim 90px 
+=============================================================
+night icon:x=700,y=185
+night temp: x575 y220 color: Bluefont itim 90px 
+=============================================================
+gov title: x=460 y=88  colour: #ff00dd ,font Architects Daughter 50px
+=============================================================
+day date: x=415 y=515, colour=0, font: Architects Daughter 30px
+=============================================================
